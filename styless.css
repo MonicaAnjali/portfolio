@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: #333;
+	
+}
+
+
+header {
+	background-image:url("H3.jpg");
+    
+    color: #fff;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+header .profile-photo {
+	background-image:url("port.jpg");
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-bottom: 2rem;
+}
+
+header h1 {
+    margin: 0.5rem 0;
+}
+
+main {
+    padding: 1rem 2rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.project {
+    background: #fff;
+    margin: 1rem 0;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.project h3 {
+    margin: 0;
+}
+
+.project a {
+    color: #333;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem 0;
+    background: #333;
+    color: #fff;
+}
